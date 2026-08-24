@@ -63,9 +63,6 @@ sistemas internos e dados operacionais da empresa.
 
 Para assuntos de tecnologia, use os canais internos da MOW Brazil.
 
-Se você encontrou uma vulnerabilidade em algum sistema nosso, veja
-[SECURITY.md](https://github.com/mowbrazilitteam/mowbrazilitteam/blob/main/SECURITY.md) antes de divulgar.
-
 ---
 
 <sub>MOW Brazil — 250 Garibaldi Ave., Foz do Iguaçu, Paraná, Brasil ·
