@@ -17,7 +17,7 @@ Cuidamos de infraestrutura, sistemas internos, suporte e segurança da informaç
 
 ## Tecnologias
 
-- **Linguagem:** Python, Java Script, C.
+- **Linguagem:** Python, PHP, JS
 - **Aplicações web e APIs:** FastAPI, Django, Flask
 - **Banco de dados:** PostgreSQL
 - **Aplicativos móveis:** Flutter
